@@ -12,3 +12,7 @@
 <b>steve.hpp</b> - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
 <b>body.hpp</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
 <b>resources.qrc</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/>
+
+<b>Screenshot:</b><br/>
+
+<img width="988" alt="steve" src="https://user-images.githubusercontent.com/29763402/27771319-d536d2c8-5f4c-11e7-8907-0ef8646f563e.png">
