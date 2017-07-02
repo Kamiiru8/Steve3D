@@ -11,7 +11,7 @@
 <b>steve.cpp</b> - główny plik aplikacji zawierający ciała funkcji oraz ustawienia GUI<br/>
 <b>steve.hpp</b> - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
 <b>body.hpp</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
-<b>resources.qrc</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/>
+<b>resources.qrc</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/></br>
 
 <b>Screenshot:</b><br/>
 
