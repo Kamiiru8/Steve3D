@@ -1,13 +1,14 @@
-Nazwa projektu:	Model postaci 3D - Steve z gry Minecraft <br/>
-Język programowania: C++ <br/>
-Biblioteka graficzna: Qt <br/>
-Autor: Kamiiru8<br/><br/>
-Projekt jest podsumowaniem zdobytych umiejętności z zajęć „Laboratorium Grafiki i Multimediów”, które odbywały się na drugim roku studiów na kierunku Informatyka.<br/> 
+<b>Nazwa projektu:</b> Model postaci 3D - Steve z gry Minecraft <br/>
+<b>Język programowania:</b> C++ <br/>
+<b>Biblioteka graficzna:</b> Qt <br/>
+<b>Autor:</b> Kamiiru8<br/><br/>
 
-Pliki projektu:<br/>
+<b>Opis:</b> Projekt jest podsumowaniem zdobytych umiejętności z zajęć „Laboratorium Grafiki i Multimediów”, które odbywały się na drugim roku studiów na kierunku Informatyka.<br/> 
 
-main.cpp - plik uruchomieniowy aplikacji<br/>
-steve.cpp - główny plik aplikacji zawierający ciała funkcji oraz ustawienia GUI<br/>
-steve.hpp - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
-body.hpp - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
-resources.qrc - plik zasobów określający ścieżki do plików używanych przez aplikację<br/>
+<b>Pliki projektu:</b><br/>
+
+<b>main.cpp</b> - plik uruchomieniowy aplikacji<br/>
+<b>steve.cpp</b> - główny plik aplikacji zawierający ciała funkcji oraz ustawienia GUI<br/>
+<b>steve.hpp</b> - plik nagłówkowy dołączający biblioteki, deklarację zmiennych i funkcji<br/>
+<b>body.hpp</b> - plik nagłówkowy określający współrzędne punktów elementów szkieletu postaci <br/>
+<b>resources.qrc</b> - plik zasobów określający ścieżki do plików używanych przez aplikację<br/>
