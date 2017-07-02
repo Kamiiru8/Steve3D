@@ -3,7 +3,7 @@
 <b>Biblioteka graficzna:</b> Qt <br/>
 <b>Autor:</b> Kamiiru8<br/><br/>
 
-<b>Opis:</b> Projekt jest podsumowaniem zdobytych umiejętności z zajęć „Laboratorium Grafiki i Multimediów”, które odbywały się na drugim roku studiów na kierunku Informatyka.<br/> 
+<b>Opis:</b> Projekt jest podsumowaniem zdobytych umiejętności z zajęć „Laboratorium Grafiki i Multimediów”, które odbywały się na drugim roku studiów na kierunku Informatyka.<br/><br/>
 
 <b>Pliki projektu:</b><br/>
 
