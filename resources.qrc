@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>textures/arm1.png</file>
+    <file>textures/arm2.png</file>
+    <file>textures/head1.png</file>
+    <file>textures/head2.png</file>
+    <file>textures/head3.png</file>
+    <file>textures/head4.png</file>
+    <file>textures/head5.png</file>
+    <file>textures/leg1.png</file>
+    <file>textures/leg2.png</file>
+    <file>textures/leg3.png</file>
+    <file>textures/leg4.png</file>
+    <file>textures/logo.png</file>
+    <file>textures/torso1.png</file>
+    <file>textures/torso2.png</file>
+    <file>textures/torso3.png</file>
+    <file>textures/torso4.png</file>
+</qresource>
+</RCC>

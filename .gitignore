@@ -1,0 +1,5 @@
+*.o
+Makefile
+moc_steve.cpp
+qrc_resources.cpp
+Steve3D
