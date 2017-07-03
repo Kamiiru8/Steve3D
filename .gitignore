@@ -1,4 +1,5 @@
 *.o
+*.pro
 Makefile
 moc_steve.cpp
 qrc_resources.cpp
