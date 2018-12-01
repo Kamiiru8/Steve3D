@@ -1,5 +1,3 @@
-//Please don't be impressed with the quality of my project code. I have learned a lot since I published this project and I know how poor it looks.
-
 <b>Nazwa projektu:</b> Model postaci 3D - Steve z gry Minecraft <br/>
 <b>Język programowania:</b> C++ <br/>
 <b>Biblioteka graficzna:</b> Qt <br/>
